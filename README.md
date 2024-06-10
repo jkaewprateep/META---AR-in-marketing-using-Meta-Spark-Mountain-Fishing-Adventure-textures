@@ -21,7 +21,7 @@ META - AR in marketing using Meta Spark\Mountain Fishing Adventure\textures
 
 <p align="center" width="100%">
     <img width="47%" src="https://github.com/jkaewprateep/META---AR-in-marketing-using-Meta-Spark-Mountain-Fishing-Adventure-textures/blob/main/FormatFactory20240610_164636-ezgif.com-video-to-gif-converter.gif">
-    <img width="26%" src="https://github.com/jkaewprateep/META---AR-in-marketing-using-Meta-Spark-Mountain-Fishing-Adventure-textures/blob/main/QR%20Codes.png"> </br>
+    <img width="32.5%" src="https://github.com/jkaewprateep/META---AR-in-marketing-using-Meta-Spark-Mountain-Fishing-Adventure-textures/blob/main/Screenshot%202024-06-10%20165716.png"> </br>
     <b> Pictures from the Internet </b> </br>
 </p>
 
