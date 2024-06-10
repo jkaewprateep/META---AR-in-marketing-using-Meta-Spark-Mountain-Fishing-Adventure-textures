@@ -9,7 +9,7 @@ META - AR in marketing using Meta Spark\Mountain Fishing Adventure\textures
     <b> Pictures from the Internet </b> </br>
 </p>
 
-## Poster 2: Mountain Fishing Adventure ( Temporary GIF image )
+## Poster 2: Mountain Fishing Adventure ( Temporary GIF image / Social media and published feature is not working )
 
 <p align="center" width="100%">
     <img width="47%" src="https://github.com/jkaewprateep/META---AR-in-marketing-using-Meta-Spark-Mountain-Fishing-Adventure-textures/blob/main/FormatFactory20240610_142659-ezgif.com-video-to-gif-converter.gif">
